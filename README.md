@@ -53,7 +53,7 @@ Navigate to the backend directory and install dependencies:
  npm Start
  ```
 
-for more frontend configuration, refer this [documentation](markup-fe/readme.md)
+for more frontend configuration, refer this [documentation](markup-fe/README.md)
 
 The React app will run on http://localhost:3200.
 
